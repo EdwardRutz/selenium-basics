@@ -3,7 +3,7 @@
 Using Selenium to create automated tests.
 - Based on the [tutorial 1](https://teamtreehouse.com/library/introduction-to-selenium) and [tutorial 2](https://teamtreehouse.com/library/dom-scripting-by-example)
 - 2-11-18, [Edward Rutz](https://www.linkedin.com/in/EdwardRutz)
-- See [notes]()
+- See [notes](https://github.com/EdwardRutz/dev-notes/blob/master/javascript-notes/intro-to-selenium.md)
 
 ## WIP Status
 - Sprint 1
@@ -18,11 +18,18 @@ Using Selenium to create automated tests.
 
 ----------------------------------------------------------
 
+## Notes
+
+
+
+----------------------------------------------------------
+
 ## References
 
 - [TeamTreehouse: Introduction to Selenium](https://teamtreehouse.com/library/introduction-to-selenium)
 - [HTML Code from: DOM Scripting by Example](https://teamtreehouse.com/library/dom-scripting-by-example)
 - [seleniumhq.org](http://www.seleniumhq.org/)
+- [Notes: Intro to Selenium](https://github.com/EdwardRutz/dev-notes/blob/master/javascript-notes/intro-to-selenium.md)
 - [Edward Rutz](https://www.linkedin.com/in/EdwardRutz)
 
 - [Github: SeleniumHQ Repo](https://github.com/SeleniumHQ/selenium)
